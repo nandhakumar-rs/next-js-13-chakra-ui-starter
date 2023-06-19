@@ -12,6 +12,8 @@ yarn dev
 pnpm dev
 ```
 
+> Note: Node V18 or greater is required to run the project.
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
